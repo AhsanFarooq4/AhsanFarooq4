@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/ahsan-mujtaba-farooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan-mujtaba-farooq" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22996342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22996342" height="30" width="40" /></a>
 <a href="https://instagram.com/cruisinvibe69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cruisinvibe69" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/veraxel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="veraxel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@VeraxelTV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="veraxel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/guts786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guts786" height="30" width="40" /></a>
 </p>
 
